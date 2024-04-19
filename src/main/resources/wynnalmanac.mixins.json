@@ -3,7 +3,7 @@
 	"package": "io.github.roguim.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"ExampleMixin"
+		"EntityRemoveMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
